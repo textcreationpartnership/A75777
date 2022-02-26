@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The attestation of the ministers of the county of Norfolk, and the City of Norwich. In vindication of the ancient truths of Jesus Christ, and prosecution of the Solemn Covenant: against the spreading errors, and prodigious blaspemies that are scattered abroad in these licentious dayes. As it was represented to the ministers of the province of London, June 9. 1648. Concurring with them in their publick testimony.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75777</idno>
+            <idno type="STC">Wing A4159</idno>
+            <idno type="STC">Thomason E447_6</idno>
+            <idno type="STC">ESTC R204916</idno>
+            <idno type="EEBO-CITATION">99864364</idno>
+            <idno type="PROQUEST">99864364</idno>
+            <idno type="VID">116592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116592)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The attestation of the ministers of the county of Norfolk, and the City of Norwich. In vindication of the ancient truths of Jesus Christ, and prosecution of the Solemn Covenant: against the spreading errors, and prodigious blaspemies that are scattered abroad in these licentious dayes. As it was represented to the ministers of the province of London, June 9. 1648. Concurring with them in their publick testimony.</title>
+               </titleStmt>
+               <extent>6, 5-6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Cotes for Michael Sparke, at the sign of the Bible in Green-Arbor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116592:1" rendition="simple:additions"/>
+            <p>The Atteſtation OF THE MINISTERS Of the County of NORFOLK, and City of <hi>Norwich.</hi> In Vindication of the Ancient Truths of Jeſus Chriſt, and proſecution of the Solemn COVENANT: <hi>AGAINST</hi> The ſpreading <hi>Errors,</hi> and prodigious <hi>Blaſphemies</hi> that are ſcattered abroad in theſe licentious Dayes.</p>
+            <p>As it was Repreſented to the Miniſters of the Province of <hi>LONDON,</hi> June 9. 1648.</p>
+            <p>Concurring with them in their publick Teſtimony.</p>
+            <p>LONDON, Printed by <hi>R. Cotes</hi> for <hi>Michael Sparke,</hi> at the ſign of the Bible in <hi>Gre<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>A<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116592:2"/>
+            <pb n="3" facs="tcp:116592:2"/>
+            <head>THE Atteſtation of the <hi>Miniſters</hi> OF THE County of Norfolk, <hi>and City of</hi> Norwich: In Vindication of the Ancient Truths of JESUS CHRIST.</head>
+            <opener>
+               <salute>Reverend and much eſteemed Brethren in the Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE your Brethren and Fellow-labourers in the worke of the Lord, within <hi>the County of Nor<g ref="char:EOLhyphen"/>folk, and County and City of Nor<g ref="char:EOLhyphen"/>wich,</hi> having gladly peruſed your late exemplary and gratious <hi>Teſtimony</hi> to the ſaving Truths of Jeſus Chriſt, and to our Solemn League and Covenant, as alſo a<g ref="char:EOLhyphen"/>gainſt the <hi>Errors, Hereſies,</hi> and <hi>Blaſphemies,</hi>
+               <pb n="4" facs="tcp:116592:3"/>which have ſpread in theſe unhappy times, through the too great connivence at them, cannot but from the ground of our hearts, thankfully render eternall praiſes to the God of all Grace and Truth, for his grace made ma<g ref="char:EOLhyphen"/>nifeſt to you, and his truth atteſted by your in moving your Spirits ſo ſeaſonably to own and bear witneſſe to thoſe Divine and Fun<g ref="char:EOLhyphen"/>damentall Truths, which many through ig<g ref="char:EOLhyphen"/>norance or wilfull blindneſſe, have endea<g ref="char:EOLhyphen"/>voured to trample under foot, to the great diſhonour of God, and to the eclipſing of the glorious light of the Goſpell of Jeſus Chriſt: To this ſo faithfull <hi>Testimony</hi> of yours, ſhould wee not cheerfully and unani<g ref="char:EOLhyphen"/>mouſly ſubſcribe our hands; and ſeale it with our bloods (if the Lord ſhould call us there<g ref="char:EOLhyphen"/>unto) wee could not but judge our ſelves unworthy of, and unfaithfull in the high and holy callings of our Miniſtery. Wee there<g ref="char:EOLhyphen"/>fore witneſſe to <hi>God, Angels,</hi> and <hi>Men,</hi> the conſtant deſires and longings of our ſoules, to bee ſtrengthned in the Lord, and in the power of his might, to live and dye with you in the defence of the Truths of Jeſus Chriſt:
+<pb n="5" facs="tcp:116592:3"/>Goe on therefore (Reverend and beloved Brethren) being in nothing terrified by the legions of the Churches-Enemies: ſtill ſtand <hi>Centinels</hi> for the Church of the Lord Jeſus Chriſt in this Kingdom, to give us the <hi>Alarm</hi> as the adverſaries ſhall farther appear, till the mouth of all wickedneſſe be ſtopped, and the tongues of thoſe that ſpeak perverſe things, nothing doubting but that wee (though the weakeſt and moſt unworthy of the meſſen<g ref="char:EOLhyphen"/>gers of Jeſus Chriſt) are of the ſame ſpirit with you, and ſtedfaſt to our <hi>Solemn League and Covenant, and to the ancient Truths of Ieſus Chriſt.</hi> With which reſolution praying the God of Grace to double his Spirit of zeal up<g ref="char:EOLhyphen"/>on you, and all that ſtand up in the defence of his pretious Truths, making you further inſtrumentall in promoting the Lords work; Wee reſt, ſubſcribing our ſelves,</p>
+            <closer>
+               <signed>Your Fellow-labourers who are alſo ready through the ſtrength of our God to be Fellow-ſuffer<g ref="char:EOLhyphen"/>ers with you, Robert.
+<list>
+                     <pb n="6" facs="tcp:116592:4"/>
+                     <item>
+                        <hi>RObert Peck</hi> Miniſter of the of Word God at <hi>Hingham</hi>
+                     </item>
+                     <item>
+                        <hi>William Stinnet</hi> Miniſter of Gods word in <hi>Johns</hi> of <hi>Maddermarket</hi> in <hi>Norwich</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Johnſon</hi> Miniſter of the word at <hi>Ke<g ref="char:EOLhyphen"/>tringham</hi>
+                     </item>
+                     <item>
+                        <hi>Ioh. Martin</hi> Miniſter of the word at <hi>Edgefield</hi>
+                     </item>
+                     <item>
+                        <hi>Elias Crabtree</hi> Miniſter of the word at <hi>Dic<g ref="char:EOLhyphen"/>kle borough</hi>
+                     </item>
+                     <item>
+                        <hi>John Carter</hi> Paſtor of <hi>Peters</hi> of <hi>Mancroft Nor<g ref="char:EOLhyphen"/>wich</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Brinſley</hi> Miniſters of the word at great <hi>Yarmouth</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Swaine</hi> Miniſters of the word at great <hi>Yarmouth</hi>
+                     </item>
+                     <item>
+                        <hi>Iſaack Roſe</hi> Miniſter of the word at <hi>Had<g ref="char:EOLhyphen"/>skow</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh More</hi> Paſtor of <hi>Burſton</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Boyes</hi> Paſtor of <hi>Tiveſdale</hi>
+                     </item>
+                     <item>
+                        <hi>Richard More</hi> Miniſter of the word at <hi>Dis.</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Iocelyn</hi> Miniſter of the word at <hi>Har<g ref="char:EOLhyphen"/>dingham</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Alliſon</hi> Miniſter of the word at <hi>Cleyjuxta mare</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Brome</hi> Miniſter of the word at <hi>South-reps</hi>
+                     </item>
+                     <pb n="5" facs="tcp:116592:4"/>
+                     <item> 
+                        <hi>William Hall</hi> Miniſter of the word at <hi>He<g ref="char:EOLhyphen"/>vingham</hi>
+                     </item>
+                     <item>
+                        <hi>Nic. Pit</hi> Miniſter of the Goſpel at <hi>Bunwell</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Sap</hi> Miniſter of the word at <hi>Larling<g ref="char:EOLhyphen"/>ford</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Daliel</hi> Miniſter of the word at <hi>Rough<g ref="char:EOLhyphen"/>ton cum Hanworth</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Iackson</hi> Miniſter of the word at <hi>Itte<g ref="char:EOLhyphen"/>ringhan</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Bond</hi> Paſtor of <hi>Holt</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Collings</hi> Miniſter of Gods word in <hi>Savi<g ref="char:EOLhyphen"/>ours</hi> Pariſh in <hi>Norwich</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Henant</hi> Miniſter of the word at <hi>Smal-borough</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Theoderick</hi> Miniſter of the word at <hi>Rockland-taſts</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Aſteley</hi> Miniſter of <hi>Melton</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Lambe</hi> Miniſter of the word at <hi>Merſton</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Dawney</hi> Miniſter of the word at <hi>Salt-houſe</hi>
+                     </item>
+                     <item>
+                        <hi>Robert VVatſon</hi> Miniſter of the word at <hi>Ba<g ref="char:EOLhyphen"/>king ſtroppe</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Harmer</hi> Miniſter of <hi>Saxlingham</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Younge</hi> Miniſter of <hi>Kettleſtone</hi>
+                     </item>
+                     <pb n="6" facs="tcp:116592:5"/>
+                     <item> 
+                        <hi>Iohn Yates</hi> Rector of <hi>Stifkey</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Smith</hi> Miniſter of the word <hi>at Sydeſterue</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Wels</hi> Miniſter of the Goſpel at <hi>Faken<g ref="char:EOLhyphen"/>ham.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Tofs</hi> Miniſter of the word at <hi>Michaels</hi> of the <hi>Plea</hi> in <hi>Norwich</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Butler</hi> Miniſter at <hi>Oldton</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. VVorſeley</hi> Miniſter of the word at <hi>Run<g ref="char:EOLhyphen"/>ton cum Beeſton Regis</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Michel</hi> Miniſter of the word at <hi>Eden<g ref="char:EOLhyphen"/>thorpe</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Smith</hi> Miniſter of Gods word at <hi>Ayl<g ref="char:EOLhyphen"/>merton</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Breviter</hi> Miniſter at <hi>VValcot.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
